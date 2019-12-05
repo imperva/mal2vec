@@ -33,7 +33,7 @@ jupyter-notebook --notebook-dir={path_to_project}
 
 1) Open the example notebook under `examples/WAF example.ipynb`
 2) Execute the first 2 cells (Imports & Load CSV)
-3) Load the data file `data/Imperva WAF.gz` by clicking 'Load CSV'
+3) Load the data file `data/WAF.gz` by clicking 'Load CSV'
 4) Execute the next 2 cells (Map columns & Select additional grouping columns). The correct columns are already selected.
 5) Create senteces, Prepare dataset, Train and Evaluate the model by executing each of the following cells and clicking 'Start'
 6) The evaluation cell will provide a visual 
